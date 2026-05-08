@@ -1,0 +1,16 @@
+1. Main solution is implemented in submission.py
+
+2. Additional files used:
+   - LateralController.py
+   - ThrottleController.py
+   - SpeedData.py
+
+3. Custom optimized racing line:
+   waypoints/ayub_monza_spicy_line.npz
+
+4. Run using:
+   python competition_runner.py
+
+5. Required packages:
+   numpy
+   roar_py_interface
